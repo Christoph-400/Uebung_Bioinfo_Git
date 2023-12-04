@@ -18,5 +18,3 @@ Und ohne eine Nutzereingabe macht es viel weniger Spaß. Daher sollen in unser P
 Klar fragt man sich was Kommentieren und Auskommentieren im Grundlagen-Kapitel zu suchen haben. In einem Programm werden wir umfangreicheren Quellcode (und komplizierte Bereiche) kommentieren. Beides haben wir am Anfang nicht. Aber mit „auskommentieren“ können wir einzelne Teile von unserem Programm abschalten und somit Fehler eingrenzen. Daher wird diese Möglichkeit im Grundlagen-Kapitel gezeigt.
 
 Das sind unsere Grundlagen. In allen Programmiersprachen immer dasselbe – nur der Befehlsaufbau unterscheidet sich.
-
-** Und nun viel Spaß beim Lernen von Python! **
